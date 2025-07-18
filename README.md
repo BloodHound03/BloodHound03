@@ -2,7 +2,7 @@
 
 ![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
-<img align="right" src="https://komarev.com/ghpvc/?username=surak35&label=Profile%20views&color=0e75b6&style=flat" />
+<img align="right" src="https://komarev.com/ghpvc/?username=BloodHound03&label=Profile%20views&color=0e75b6&style=flat" />
 
 <p align="center">
   <h3 align="center">WELCOME TO MY GITHUB 😀</h3>
@@ -12,7 +12,7 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=Hi+There+👋;My+Name+Is+Tathagata+Pal+👨‍💻;Do+Check+Out+My+Projects+🚀&font=Righteous&size=35&center=true&vCenter=true&width=580&height=70&duration=3000&pause=500" >
 </p>
 
-<img align="right" alt="Coding" width="155" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/52a74048376295.589658726148d.gif">
+<img align="right" alt="Coding" width="155" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FAnmol-Baranwal%2FCool-GIFs-For-GitHub&psig=AOvVaw1ru3mfzVk6BKZFoPHQSuVX&ust=1752917970146000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLDrn7qOxo4DFQAAAAAdAAAAABAE">
 
 - 👋 Hi, I’m @BloodHound03
 - 👀 I’m interested in ML, DS, CyberSecurity and other CS related domains
