@@ -69,12 +69,12 @@
 <br/>
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=surak35&theme=synthwave-84&true&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=BloodHound03&theme=synthwave-84&true&hide_border=true" />
 </div>
 <img align="right" alt="Cat" width="135" src="https://img.itch.zone/aW1hZ2UvMTEzNTA0NS82NTc4ODU4LmdpZg==/original/GuSHJB.gif"><br/>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=SuRak35&theme=radical&no-frame=false&no-bg=false&margin-w=4)<br/><br/><br/>
+![](https://github-profile-trophy.vercel.app/?username=BloodHound03&theme=radical&no-frame=false&no-bg=false&margin-w=4)<br/><br/><br/>
 <img align="right" alt="Cat" width="92" src="https://i.pinimg.com/originals/e8/d0/f1/e8d0f1794e2520ac2367c1d21c0966e9.gif">
 
 ## 🏆 Holopin Badges
@@ -99,7 +99,7 @@ BloodHound03/BloodHound03 is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 ## 📈 Github Contributions:
-![snake gif](https://github.com/SuRak35/SuRak35/blob/output/github-contribution-grid-snake-dark.svg)
+![snake gif](https://github.com/SuRak35/BloodHound03/blob/output/github-contribution-grid-snake-dark.svg)
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
