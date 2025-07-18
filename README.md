@@ -14,7 +14,7 @@
 
 <img align="right" alt="Coding" width="155" src="https://user-images.githubusercontent.com/74038190/215768924-1014d363-b416-4080-8c74-808583e81735.png">
 
-- 👋 Hi, I’m @BloodHound03
+- 👋 Hi, I’m @Tathagata
 - 👀 I’m interested in ML, DS, CyberSecurity and other CS related domains
 - 🌱 I’m currently learning Selenium Automation
 - 💞️ I’m looking to collaborate on LinkedIn
