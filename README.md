@@ -99,7 +99,7 @@ BloodHound03/BloodHound03 is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 ## 📈 Github Contributions:
-![snake gif](https://github.com/SuRak35/BloodHound03/blob/output/github-contribution-grid-snake-dark.svg)
+![snake gif](https://github.com/BloodHound03/BloodHound03/blob/output/github-contribution-grid-snake-dark.svg)
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
