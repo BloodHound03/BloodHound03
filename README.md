@@ -12,7 +12,7 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=Hi+There+👋;My+Name+Is+Tathagata+Pal+👨‍💻;Do+Check+Out+My+Projects+🚀&font=Righteous&size=35&center=true&vCenter=true&width=580&height=70&duration=3000&pause=500" >
 </p>
 
-<img align="right" alt="Coding" width="155" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FAnmol-Baranwal%2FCool-GIFs-For-GitHub&psig=AOvVaw1ru3mfzVk6BKZFoPHQSuVX&ust=1752917970146000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLDrn7qOxo4DFQAAAAAdAAAAABAE">
+<img align="right" alt="Coding" width="155" src="https://user-images.githubusercontent.com/74038190/215768924-1014d363-b416-4080-8c74-808583e81735.png">
 
 - 👋 Hi, I’m @BloodHound03
 - 👀 I’m interested in ML, DS, CyberSecurity and other CS related domains
