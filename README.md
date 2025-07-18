@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tathagata</h1>
 <h3 align="center">Automation Testing Enthusiast | Selenium Specialist | Framework Architect</h3>
+<h4 align="center">Python | Java | JavaScript | MySQL </h4>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=tathagata123&label=Profile%20views&color=0e75b6&style=flat" alt="tathagata123" />
