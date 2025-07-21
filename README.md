@@ -12,7 +12,7 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=Hi+There+👋;My+Name+Is+Tathagata+Pal+👨‍💻;Do+Check+Out+My+Projects+🚀&font=Righteous&size=35&center=true&vCenter=true&width=580&height=70&duration=3000&pause=500" >
 </p>
 
-<img align="right" alt="Coding" width="155" src="https://user-images.githubusercontent.com/74038190/215768924-1014d363-b416-4080-8c74-808583e81735.png">
+<img align="right" alt="Coding" width="200" src="https://user-images.githubusercontent.com/74038190/215768924-1014d363-b416-4080-8c74-808583e81735.png">
 
 - 👋 Hi, I’m @Tathagata
 - 👀 I’m interested in ML, DS, CyberSecurity and other CS related domains
