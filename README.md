@@ -61,7 +61,7 @@
 <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=BloodHound03&theme=radical&utcOffset=8">
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=BloodHound03&theme=radical&hide_border=false&include_all_commits=false&count_private=false">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=BloodHound03&locale=en&hide_title=false&layout=compact&card_width=160&langs_count=5&theme=radical&hide_border=false&order=2" height="130" alt="languages graph"  />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=BloodHound03&locale=en&hide_title=false&layout=compact&card_width=160&langs_count=5&theme=radical&hide_border=false&order=2" height="160" alt="languages graph"  />
 <br/>
 <br/>
 <img alt="Coding" width="500" src="https://steamuserimages-a.akamaihd.net/ugc/1661224712069230981/BFD6A13BBBF6F1A2A7FA6A6DA961E0700E98660A/?imw=1024&imh=576&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true">
